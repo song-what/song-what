@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### A PhD researcher ╳ developer ╳ designer in VR, Web, HCI
+#### A postdoctoral researcher ╳ developer ╳ designer in VR, Web, HCI
 <!--
 **song-what/song-what** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
